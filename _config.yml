@@ -1,15 +1,14 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: "Neural Compression: From Information Theory to Applications"
+name: "ACE Summer School"
 email:
 description: > # this means to ignore newlines until "url:"
-  A Venue for neural compression
+  Algorand Centre of Excellence on Sustainability Informatics for the Pacific (ACE-SIP) Summer School
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url:  # the base hostname & protocol for your site
+url: https://acesummerschool.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
