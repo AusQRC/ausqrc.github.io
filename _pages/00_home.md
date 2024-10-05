@@ -6,23 +6,8 @@ desc_title:
 description: 
 ---
 
-The 1st ACE-SIP Summer School will be held in Melbourne Australia from 2nd to 3rd Feb, 2023.
+In August 2024, the US National Institute for Standards and Technology (NIST) published the final versions of its new industry standards for quantum-resistant cryptography (a.k.a. post-quantum cryptography). This marks a major milestone which will have a wide-ranging industry impact over the next few years, in the upcoming world-wide transition to deploy security mechanisms resistant to attack by emerging quantum computing technology. 
 
-The Summer School is an annual event organised by our Algorand Centre of Excellence on Sustainability Informatics for the Pacific (ACE-SIP). The first Summer School will be held from 2nd to 3rd February 2023 at Monash University Clayton Campus, Australia. Over two days, this summer school will feature keynotes by international leaders in the blockchain domain, interspersed with lectures by recognised leaders in the Asia Pacific blockchain and Algorand ecosystem. The summer school will emphasise a friendly environment where students can learn from local and international experts. 
 
-It will be a hybrid event and free to all students around the world to attend.
-
-<span style="color:red">**The complete agenda of our summer school is announced! Please refer to the [Agenda](https://acesummerschool.github.io/agenda/) page for more details.**</span>
-
-<span style="color:red">**Registration (both in-person and online) has been closed.**</span>
-
-<table style="width:100%; border:none">
-  <tr>
-    <td style="text-align:center;border:none"><img src="assets/img/monash.png" height="100"></td>
-    <td style="text-align:center;border:none"><img src="assets/img/ace-sip.png" height="100"></td>
-  </tr>
-  <tr>
-    <td style="text-align:left;border:none">Contact us: <a href="mailto:contact@ace-sip.org">contact@ace-sip.org</a></td>
-  </tr>
-</table>
+The aim of the AusQRC workshop is to raise awareness of the upcoming Quantum-Resistant Cybersecurity (QRC) industry transition, the state-of-the-art in QRC research, and overall challenges around QRC deployment, particularly in the Australian context. The workshop program (to be announced) will include a high-profile international speaker as well as speakers from Australian industry and academia. 
 
