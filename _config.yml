@@ -4,7 +4,7 @@
 name: "AusQRC Workshop"
 email:
 description: > # this means to ignore newlines until "url:"
-  Algorand Centre of Excellence on Sustainability Informatics for the Pacific (ACE-SIP) Summer School
+  AusQRC - Quantum-Resistant Cybersecurity in Australia
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
