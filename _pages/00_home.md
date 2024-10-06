@@ -18,6 +18,9 @@ The registration will open soon. Please register early to secure a spot; only li
 
 <table style="width:100%; border:none">
   <tr>
+    <td style="text-align:center;border:none"><img src="/assets/img/monash.png" height="100"></td>
+  </tr>
+  <tr>
     <td style="text-align:left;border:none">Contact us: TBA</td>
   </tr>
 </table>

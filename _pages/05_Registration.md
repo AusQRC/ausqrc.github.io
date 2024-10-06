@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /venue/
-title: Venue
+permalink: /registration/
+title: Registration
 ---
 
-The workshop will be held at Clayton Campus, Monash University <span style="color:red">(building to be confirmed)</span> on 19 Nov 2024. Detailed agenda will be announced soon.
+Registration will open soon.
 
 <table style="width:100%; border:none">
   <tr>

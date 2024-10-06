@@ -1,10 +1,16 @@
 ---
 layout: page
-permalink: /venue/
-title: Venue
+permalink: /organisers/
+title: Organisers
 ---
 
-The workshop will be held at Clayton Campus, Monash University <span style="color:red">(building to be confirmed)</span> on 19 Nov 2024. Detailed agenda will be announced soon.
+#### **Co-Organisers**
+Ron Steinfeld
+
+[Muhammed Esgin](https://mfesgin.github.io)
+
+#### **Webpage**
+[Shangqi Lai](https://shangqimonash.github.io)
 
 <table style="width:100%; border:none">
   <tr>
@@ -14,3 +20,8 @@ The workshop will be held at Clayton Campus, Monash University <span style="colo
     <td style="text-align:left;border:none">Contact us: TBA</td>
   </tr>
 </table>
+
+
+
+
+
