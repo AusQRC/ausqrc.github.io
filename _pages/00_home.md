@@ -11,3 +11,13 @@ In August 2024, the US National Institute for Standards and Technology (NIST) pu
 
 The aim of the AusQRC workshop is to raise awareness of the upcoming Quantum-Resistant Cybersecurity (QRC) industry transition, the state-of-the-art in QRC research, and overall challenges around QRC deployment, particularly in the Australian context. The workshop program (to be announced) will include a high-profile international speaker as well as speakers from Australian industry and academia. 
 
+## Target Audience
+We would like to invite cybersecurity industry and government professionals, Academic researchers, and research students to participate in the event. 
+
+The registration will open soon. Please register early to secure a spot; only limited spots available! 
+
+<table style="width:100%; border:none">
+  <tr>
+    <td style="text-align:left;border:none">Contact us: TBA</td>
+  </tr>
+</table>
