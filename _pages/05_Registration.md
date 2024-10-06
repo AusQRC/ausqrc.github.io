@@ -11,6 +11,6 @@ Registration will open soon.
     <td style="text-align:center;border:none"><img src="/assets/img/monash.png" height="100"></td>
   </tr>
   <tr>
-    <td style="text-align:left;border:none">Contact us: TBA</td>
+    <td style="text-align:left;border:none">Contact us: <a href="mailto:ron.steinfeld@monash.edu">ron.steinfeld@monash.edu</a>, <a href="mailto:muhammed.esgin@monash.edu">muhammed.esgin@monash.edu</a></td>
   </tr>
 </table>
