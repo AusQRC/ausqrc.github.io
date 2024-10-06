@@ -119,6 +119,17 @@
   margin-top: -2.7em;
 }
 
+.header-background .color {
+  background-color: #215F9A;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  height: 25em;
+  margin-bottom: 2em;
+  margin-top: -2.7em;
+}
+
+
 .header-background .text {
   margin-top: -23em;
   text-align: center;
@@ -132,14 +143,15 @@
 
 .header-background .text h1 {
   font-weight: bold;
-  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  text-shadow: 2px 2px 4px #000000;
   margin:0px;
 }
 
 
 .header-background .text h2 {
   font-weight: bold;
-  background: rgba(0, 0, 0, 0.5);
+  background: rgba(0, 0, 0, 0);
   margin:0px;
 }
 
