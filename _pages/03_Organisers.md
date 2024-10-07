@@ -12,13 +12,6 @@ title: Organisers
 #### **Webpage**
 [Shangqi Lai](https://shangqimonash.github.io)
 
-### Thanks to our sponsors
-<table style="width:100%; border:none">
-  <tr>
-    <td style="text-align:center;border:none"><img src="/assets/img/sponsor.png" height="100"></td>
-  </tr>
-</table>
-
 <table style="width:100%; border:none">
   <tr>
     <td style="text-align:center;border:none"><img src="/assets/img/monash.png" height="100"></td>
@@ -28,7 +21,12 @@ title: Organisers
   </tr>
 </table>
 
-
+### Thanks to our sponsors
+<table style="width:100%; border:none">
+  <tr>
+    <td style="text-align:center;border:none"><img src="/assets/img/sponsor.png" height="100"></td>
+  </tr>
+</table>
 
 
 

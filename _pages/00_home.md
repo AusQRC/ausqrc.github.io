@@ -16,18 +16,18 @@ We would like to invite cybersecurity industry and government professionals, Aca
 
 <span style="color:red">**The registration is open. Please visit this [page](registration) for details. The workshop is an on-site event, attending in-person is compulsory. Please register early to secure a spot; only limited spots available!**</span>
 
-### Thanks to our sponsors
-<table style="width:100%; border:none">
-  <tr>
-    <td style="text-align:center;border:none"><img src="/assets/img/sponsor.png" height="100"></td>
-  </tr>
-</table>
-
 <table style="width:100%; border:none">
   <tr>
     <td style="text-align:center;border:none"><img src="/assets/img/monash.png" height="100"></td>
   </tr>
   <tr>
     <td style="text-align:left;border:none">Contact us: <a href="mailto:AusQRC@monash.edu">AusQRC@monash.edu</a></td>
+  </tr>
+</table>
+
+### Thanks to our sponsors
+<table style="width:100%; border:none">
+  <tr>
+    <td style="text-align:center;border:none"><img src="/assets/img/sponsor.png" height="100"></td>
   </tr>
 </table>

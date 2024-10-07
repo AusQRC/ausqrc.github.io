@@ -12,18 +12,18 @@ The workshop is an on-site event, attending in-person is **compulsory**.
 
 The workshop is a **free** event. No registration fee will be charged. 
 
-### Thanks to our sponsors
-<table style="width:100%; border:none">
-  <tr>
-    <td style="text-align:center;border:none"><img src="/assets/img/sponsor.png" height="100"></td>
-  </tr>
-</table>
-
 <table style="width:100%; border:none">
   <tr>
     <td style="text-align:center;border:none"><img src="/assets/img/monash.png" height="100"></td>
   </tr>
   <tr>
     <td style="text-align:left;border:none">Contact us: <a href="mailto:AusQRC@monash.edu">AusQRC@monash.edu</a></td>
+  </tr>
+</table>
+
+### Thanks to our sponsors
+<table style="width:100%; border:none">
+  <tr>
+    <td style="text-align:center;border:none"><img src="/assets/img/sponsor.png" height="100"></td>
   </tr>
 </table>
