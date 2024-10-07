@@ -14,7 +14,7 @@ The aim of the AusQRC workshop is to raise awareness of the upcoming Quantum-Res
 ### Target Audience
 We would like to invite cybersecurity industry and government professionals, Academic researchers, and research students to participate in the event. 
 
-<span style="color:red">**The registration is opened. Please visit this [page](registration) for details. Please register early to secure a spot; only limited spots available!**</span>
+<span style="color:red">**The registration is opened. Please visit this [page](registration) for details. The workshop is an on-site event, attending in-person is compulsory. Please register early to secure a spot; only limited spots available!**</span>
 
 <table style="width:100%; border:none">
   <tr>
