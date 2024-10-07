@@ -4,7 +4,7 @@ permalink: /registration/
 title: Registration
 ---
 
-The registration is opened. You may visit this [link](https://events.humanitix.com/ausqrc) to get the event ticket.
+The registration is open. You may visit this [link](https://events.humanitix.com/ausqrc) to get the event ticket.
 
 The workshop is an on-site event, attending in-person is **compulsory**. 
 
