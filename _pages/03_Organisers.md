@@ -24,7 +24,8 @@ title: Organisers
 ### Thanks to our sponsors
 <table style="width:100%; border:none">
   <tr>
-    <td style="text-align:center;border:none"><img src="/assets/img/sponsor.png" height="100"></td>
+    <td style="text-align:center;border:none;padding-top:40px"><img src="/assets/img/penten.png" height="100"></td>
+    <td style="text-align:center;vertical-align:center;border:none"><img src="/assets/img/senetas.webp" height="100"></td>
   </tr>
 </table>
 
