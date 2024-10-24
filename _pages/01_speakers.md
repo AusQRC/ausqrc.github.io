@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /program/
-title: Program
+permalink: /speakers/
+title: Speakers
 ---
 
 ### Confirmed Speakers
