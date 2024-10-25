@@ -6,7 +6,7 @@ title: Speakers
 
 ### Confirmed Speakers
 
-<table style="width:100%; border:none">
+<table style="width:100%; border:none;">
   <tr>
     <td style="text-align:center;border:none"><img src="/assets/img/speaker_markku.jpg" height="175"></td>
     <td style="text-align:left;border:none"><b>Markku-Juhani O. Saarinen</b><br/>Professor of Practice, Tampere University (Finland) and Post-Quantum Cryptography Task Group Chair, RISC-V International</td>
@@ -24,8 +24,8 @@ title: Speakers
     <td style="text-align:left;border:none"><b>Phil Yialeloglou</b><br/>Principal Technologist – Cryptography and Waveforms, Penten</td>
   </tr>
   <tr>
-    <td style="text-align:center;border:none"></td>
-    <td style="text-align:left;border:none"><b>Lei Zhao</b><br/>Senior Solutions Engineer, Thales CPL</td>
+    <td style="text-align:center;border:none;padding-bottom: 40px;"></td>
+    <td style="text-align:left;border:none;padding-bottom: 40px;"><b>Lei Zhao</b><br/>Senior Solutions Engineer, Thales CPL</td>
   </tr>
 </table>
 

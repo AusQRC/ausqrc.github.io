@@ -16,7 +16,7 @@ We would like to invite cybersecurity industry and government professionals, Aca
 
 <span style="color:red">**The registration is open. Please visit this [page](registration) for details. The workshop is an on-site event, attending in-person is compulsory. Please register early to secure a spot; only limited spots available!**</span>
 
-<span style="color:red">**Call for Lightning Talk EOI:** We want to give voice to a variety of speakers at the Workshop, and are seeking expressions of interest for the lightning talks session. Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSew1PWndFMJSRN50SELZpcQ2s0X0KixXUxTwlP-z7cdjpw8nQ/viewform?usp=sf_link) to express your interest. The lightning talks will be brief 5-8 mins presentations</span>
+<span style="color:red">**Call for Lightning Talk EOI:** We want to give voice to a variety of speakers at the Workshop, and are seeking expressions of interest for the lightning talks session. Please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSew1PWndFMJSRN50SELZpcQ2s0X0KixXUxTwlP-z7cdjpw8nQ/viewform?usp=sf_link) to express your interest. The lightning talks will be brief 5-8 mins presentations.</span>
 
 <table style="width:100%; border:none">
   <tr>
