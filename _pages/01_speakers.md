@@ -16,8 +16,16 @@ title: Speakers
     <td style="text-align:left;border:none"><b>David Hook</b><br/>VP Software Engineering Keyfactor/Legion of the Bouncy Castle Inc.</td>
   </tr>
   <tr>
+    <td style="text-align:center;border:none"><img src="/assets/img/speaker_candice_smith.png" height="175"></td>
+    <td style="text-align:left;border:none"><b>Candice Smith</b><br/>Corporate Account Manager, DigiCert</td>
+  </tr>
+  <tr>
     <td style="text-align:center;border:none"><img src="/assets/img/speaker_phil_Y.jpg" height="175"></td>
     <td style="text-align:left;border:none"><b>Phil Yialeloglou</b><br/>Principal Technologist – Cryptography and Waveforms, Penten</td>
+  </tr>
+  <tr>
+    <td style="text-align:center;border:none"></td>
+    <td style="text-align:left;border:none"><b>Lei Zhao</b><br/>Senior Solutions Engineer, Thales CPL</td>
   </tr>
 </table>
 
