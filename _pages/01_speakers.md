@@ -24,8 +24,8 @@ title: Speakers
     <td style="text-align:left;border:none"><b>Phil Yialeloglou</b><br/>Principal Technologist – Cryptography and Waveforms, Penten</td>
   </tr>
   <tr>
-    <td style="text-align:center;border:none;padding-bottom: 40px;"></td>
-    <td style="text-align:left;border:none;padding-bottom: 40px;"><b>Lei Zhao</b><br/>Senior Solutions Engineer, Thales CPL</td>
+    <td style="text-align:center;border:none;padding-bottom: 80px;"></td>
+    <td style="text-align:left;border:none;padding-bottom: 80px;"><b>Lei Zhao</b><br/>Senior Solutions Engineer, Thales CPL</td>
   </tr>
 </table>
 

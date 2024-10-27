@@ -72,7 +72,7 @@ The tentative workshop agenda is published. We will update the full agenda in ne
 
 <table style="width:100%; border:none">
   <tr>
-    <td style="text-align:center;border:none"><img src="/assets/img/monash.png" height="100"></td>
+    <td style="text-align:center;border:none;padding-top: 80px;"><img src="/assets/img/monash.png" height="100"></td>
   </tr>
   <tr>
     <td style="text-align:left;border:none">Contact us: <a href="mailto:AusQRC@monash.edu">AusQRC@monash.edu</a></td>
