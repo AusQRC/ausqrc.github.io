@@ -20,6 +20,10 @@ title: Speakers
     <td style="text-align:left;border:none"><b>Candice Smith</b><br/>Corporate Account Manager, DigiCert</td>
   </tr>
   <tr>
+    <td style="text-align:center;border:none"><img src="/assets/img/speaker_ron_steinfeld.jpg" height="175"></td>
+    <td style="text-align:left;border:none"><b>Ron Steinfeld</b><br/>Associate Professor, Department of Software Systems and Cybersecurity, Monash University </td>
+  </tr>
+  <tr>
     <td style="text-align:center;border:none"><img src="/assets/img/speaker_phil_Y.jpg" height="175"></td>
     <td style="text-align:left;border:none"><b>Phil Yialeloglou</b><br/>Principal Technologist – Cryptography and Waveforms, Penten</td>
   </tr>
