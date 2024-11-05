@@ -12,6 +12,10 @@ title: Speakers
     <td style="text-align:left;border:none"><b>Markku-Juhani O. Saarinen</b><br/>Professor of Practice, Tampere University (Finland) and Post-Quantum Cryptography Task Group Chair, RISC-V International</td>
   </tr>
   <tr>
+    <td style="text-align:center;border:none"><img src="/assets/img/speaker_julian_fay.jpg" height="175"></td>
+    <td style="text-align:left;border:none"><b>Julian Fay</b><br/>CTO, Senetas</td>
+  </tr>
+  <tr>
     <td style="text-align:center;border:none"><img src="/assets/img/speaker_david_hook.jpg" height="175"></td>
     <td style="text-align:left;border:none"><b>David Hook</b><br/>VP Software Engineering Keyfactor/Legion of the Bouncy Castle Inc.</td>
   </tr>

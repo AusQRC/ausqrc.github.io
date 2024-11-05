@@ -46,7 +46,7 @@ The tentative workshop agenda is published. We will update the full agenda in ne
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">01:45 PM - 02:15 PM</td>
-        <td colspan="2"><strong>Afternoon Talk 2</strong><br>TBA</td>
+        <td colspan="2"><strong>Afternoon Talk 2</strong><br><strong>Speaker: </strong>Julian Fay</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">02:15 PM - 02:45 PM</td>
