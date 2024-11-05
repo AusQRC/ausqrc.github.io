@@ -26,15 +26,15 @@ The tentative workshop agenda is published. We will update the full agenda in ne
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">11:00 AM - 11:30 AM</td>
-        <td colspan="2"><strong>Morning Talk 1</strong><br>TBA</td>
+        <td colspan="2"><strong>Morning Talk 1</strong><br><strong>Speaker: </strong>David Hook</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">11:30 AM - 12:00 PM</td>
-        <td colspan="2"><strong>Morning Talk 2</strong><br>TBA</td>
+        <td colspan="2"><strong>Morning Talk 2</strong><br><strong>Speaker: </strong>Candice Smith</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">12:00 PM - 12:30 PM</td>
-        <td colspan="2"><strong>Morning Talk 2</strong><br>TBA</td>
+        <td colspan="2"><strong>Morning Talk 3</strong><br><strong>Speaker: </strong>A/Prof Ron Steinfeld</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">12:30 PM - 01:15 AM</td>
@@ -42,7 +42,7 @@ The tentative workshop agenda is published. We will update the full agenda in ne
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">01:15 PM - 01:45 PM</td>
-        <td colspan="2"><strong>Afternoon Talk 1</strong><br>TBA</td>
+        <td colspan="2"><strong>Afternoon Talk 1</strong><br><strong>Speaker: </strong>Lei Zhao</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">01:45 PM - 02:15 PM</td>
@@ -50,7 +50,7 @@ The tentative workshop agenda is published. We will update the full agenda in ne
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">02:15 PM - 02:45 PM</td>
-        <td colspan="2"><strong>Afternoon Talk 3</strong><br>TBA</td>
+        <td colspan="2"><strong>Afternoon Talk 3</strong><br><strong>Speaker: </strong>Phil Yialeloglou</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">02:45 PM - 03:00 PM</td>
