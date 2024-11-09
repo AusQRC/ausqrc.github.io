@@ -25,4 +25,7 @@ This location is inside the Monash Clayton campus. A map for Clayton Campus can 
     <td style="text-align:center;border:none;padding-top:40px"><img src="/assets/img/penten.png" height="100"></td>
     <td style="text-align:center;vertical-align:center;border:none"><img src="/assets/img/senetas.webp" height="100"></td>
   </tr>
+  <tr>
+    <td colspan="2" style="text-align:center;vertical-align:center;border:none;"><img src="/assets/img/qa.png" height="100"></td>
+  </tr>
 </table>
