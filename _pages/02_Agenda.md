@@ -34,7 +34,7 @@ The PDF version of the adgenda can be found [here](/assets/pdf/agenda.pdf).
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">11:30 AM - 12:00 PM</td>
-        <td colspan="2"><strong>Morning Talk 2: Understanding the Transition to Quantum Safe Computing</strong><br><strong>Speaker: </strong>c</td>
+        <td colspan="2"><strong>Morning Talk 2: Understanding the Transition to Quantum Safe Computing</strong><br><strong>Speaker: </strong>Candice Smith</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">12:00 PM - 12:30 PM</td>
@@ -50,7 +50,7 @@ The PDF version of the adgenda can be found [here](/assets/pdf/agenda.pdf).
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">01:55 PM - 02:35 PM</td>
-        <td colspan="2"><strong>Panel Discussion</strong><br><strong>Host: </strong>Monica Whitty<br><strong>Panellists: </strong>David Hook, Markku-Juhani O. Saarinen, Markku-Juhani O. Saarinen</td>
+        <td colspan="2"><strong>Panel Discussion</strong><br><strong>Host: </strong>Prof Monica Whitty<br><strong>Panellists: </strong>David Hook, Prof Markku-Juhani O. Saarinen, Candice Smith</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">02:35 PM - 03:05 PM</td>
@@ -66,7 +66,7 @@ The PDF version of the adgenda can be found [here](/assets/pdf/agenda.pdf).
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">03:55 PM - 04:30 PM</td>
-        <td colspan="2"><strong>Lightning Talks</strong><br><strong>Speaker: </strong> Samuel Tseitkin, Damien Miller, Michael Egan, Andrew Scott</td>
+        <td colspan="2"><strong>Lightning Talks</strong><br><strong>Speaker: </strong>Nikki Oza, Damien Miller, Michael Egan, Andrew Scott</td>
     </tr>
     <tr style="text-align: center;">
         <td>04:25 PM - 04:30 PM</td>
