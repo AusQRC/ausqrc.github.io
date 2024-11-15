@@ -18,7 +18,7 @@ The PDF version of the adgenda can be found [here](/assets/pdf/agenda.pdf).
     </tr>
     <tr style="text-align: center;">
         <td>9:30 AM - 9:40 AM</td>
-        <td colspan="2" style="vertical-align: middle"><strong>Welcome</strong></td>
+        <td colspan="2" style="vertical-align: middle"><strong>Welcome and Acknowledgement of Country</strong></td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">09:40 AM - 10:40 AM</td>
@@ -62,7 +62,7 @@ The PDF version of the adgenda can be found [here](/assets/pdf/agenda.pdf).
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">03:25 PM - 03:55 PM</td>
-        <td colspan="2"><strong>Afternoon Talk 3</strong><br><strong>Speaker: </strong>Phil Yialeloglou</td>
+        <td colspan="2"><strong>Afternoon Talk 3: The Transition to Quantum Resistance: A Commercial Perspective</strong><br><strong>Speaker: </strong>Phil Yialeloglou</td>
     </tr>
     <tr style="text-align: center;">
         <td style="vertical-align: middle">03:55 PM - 04:30 PM</td>
