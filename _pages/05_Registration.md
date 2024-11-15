@@ -4,13 +4,7 @@ permalink: /registration/
 title: Registration
 ---
 
-The registration is open. You may visit this [link](https://events.humanitix.com/ausqrc) to get the event ticket.
-
-The workshop is an on-site event, attending in-person is **compulsory**. 
-
-**Please register ASAP as we only have limited seats!**
-
-The workshop is a **free** event. No registration fee will be charged. 
+**The Registration has been closed.**
 
 <table style="width:100%; border:none">
   <tr>
